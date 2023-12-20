@@ -1,6 +1,6 @@
 
 Simon Game Challenge: Test Your Memory and Skills!
-Are you ready to challenge your memory and reflexes? Look no further than the Simon Game Challenge! This project, built using your preferred programming language and framework, is a classic test of recollection and quick thinking.
+Are you ready to challenge your memory and reflexes? Look no further than the Simon Game Challenge! This project, built using Javascript, Html/CSS, is a classic test of recollection and quick thinking.
 
 The Game:
 
